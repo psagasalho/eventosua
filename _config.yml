@@ -23,8 +23,8 @@ author: Events DevTeam
 description: >- # this means to ignore newlines until "baseurl:"
   Management of Events at University of Aveiro Campus 
   <strong>Made Simple and Convenient!</strong>
-#baseurl: "/eventosua" # the subpath of your site, e.g. /blog
-url: "https://psagasalho.github.io/eventosua" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/eventosua" # the subpath of your site, e.g. /blog
+url: "https://psagasalho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
