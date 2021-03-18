@@ -5,7 +5,7 @@
 layout: home
 title:
 description: This is the page description.
-background: '/assets/img/ua.jpg'
+background: '/eventosua/assets/img/ua.jpg'
 video_background: '/assets/vid/ua.mp4'
 ---
 
