@@ -22,7 +22,7 @@ video_background: '/assets/vid/ua.mp4'
       <tr>
         <th scope="row">1 Milestone</th>
         <td>23 March 2021</td>
-        <td><a href="{{"/eventosua/assets/pdf/m1" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
+        <td><a href="{{"/eventosua/assets/pdf/m1/M1_EventosUA_report.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
       </tr>    
       <tr>
         <th scope="row">2 Milestone</th>
@@ -47,7 +47,7 @@ video_background: '/assets/vid/ua.mp4'
       <tr>
         <th scope="row">1 Milestone</th>
         <td>24 March 2021</td>
-        <td><a href="{{"/eventosua/assets/pdf/m1" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
+        <td><a href="{{"/eventosua/assets/pdf/m1/M1_EventosUA_pres.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
       </tr>   
       <tr>
         <th scope="row">2 Milestone</th>
