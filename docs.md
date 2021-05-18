@@ -30,9 +30,9 @@ video_background: '/assets/vid/ua.mp4'
         <td><a href="{{"/eventosua/assets/pdf/m2/M2_EventosUA_calendar.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
       </tr>   
        <tr>
-        <th scope="row">2 Milestone</th>
-        <td>13 April 2021</td>
-        <td><a href="{{"/eventosua/assets/pdf/m2/M3_EventosUA.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
+        <th scope="row">3 Milestone</th>
+        <td>19 May 2021</td>
+        <td><a href="{{"/eventosua/assets/pdf/m3/M3_EventosUA.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
       </tr> 
     </tbody>
   </table>
