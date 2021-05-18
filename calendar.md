@@ -18,7 +18,7 @@ The Eventos.UA project’s roadmap is depicted in the figure below:
 
 ### Milestones and Deadlines
 
-<p class="small-margin-top">The table below shows what will be done at Eventos.UA project in every milestone:</p>
+The table below shows what will be done at Eventos.UA project in every milestone:
 
 <table class="table table-striped" style="table-layout: fixed;">
   <tbody>
@@ -61,9 +61,114 @@ The Eventos.UA project’s roadmap is depicted in the figure below:
       </td>
       <th scope="row" style="width: 25%">15/06/2021</th>
     </tr>
-    
-    
   </tbody>
 </table>
+
+### Calendar
+The table below shows what was done at Eventos.UA project in every week:
+
+<table class="table table-striped" style="table-layout: fixed;">
+  <tbody>
+    <tr>
+      <th scope="row" style="width: 25%">Week 1</th>
+      <td class="td-padding">
+        <ul>
+          <li>First meeting</li>
+          <li>Project choice</li>
+          <li>Get envolved with the environment and scoop of the project</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">8th March - 15th March</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 2</th>
+      <td class="td-padding">
+        <ul>
+          <li>Project validation</li>
+          <li>First Milestone discussion</li>
+          <li>Research about the tools and languages used</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">16th March - 21st March</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 3</th>
+      <td class="td-padding">
+        <ul>
+          <li>Project calendarization</li>
+          <li>Lifecycle objectives</li>
+          <li>Withdrawal of problems in the WebApp</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">22nd March - 28th March</th>
+    </tr>
+   <tr>
+      <th scope="row" style="width: 25%">Week 4</th>
+      <td class="td-padding">
+        <ul>
+          <li>Start of development of the mobile App</li>
+          <li>Fix most crucial issues</li>
+          <li>Layout change to UA's theme</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">29th March - 4th April</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 5</th>
+      <td class="td-padding">
+        <ul>
+          <li>WebApp restructuring</li>
+          <li>Verification of API's calls existing</li>
+          <li>MobileApp development continuation</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">5th April - 11th April</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 6</th>
+      <td class="td-padding">
+        <ul>
+          <li>App desing and scope</li>
+          <li>Frontend work</li>
+          <li>MobileApp development continuation - Alpha production</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">12th April - 18th April</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 7</th>
+      <td class="td-padding">
+        <ul>
+          <li>App development</li>
+          <li>WebApp polish</li>
+          <li>MobileApp Alpha delivery</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">19th April - 25th April</th>
+    </tr>    
+    <tr>
+      <th scope="row" style="width: 25%">Week 8</th>
+      <td class="td-padding">
+        <ul>
+          <li>App development</li>
+          <li>WebApp polish</li>
+          <li>MobileApp development continuation - Beta production</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">26th April - 2nd May</th>
+    </tr> 
+    <tr>
+      <th scope="row" style="width: 25%">Week 9</th>
+      <td class="td-padding">
+        <ul>
+          <li>App development</li>
+          <li>WebApp polish</li>
+          <li>MobileApp Beta delivery</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">3rd May - 11th May</th>
+    </tr> 
+</table>
+
 
 For more information about the Milestones and their Deliverables, check out our [documentation area]({{"/eventosua/docs" | prepend: relative_url | prepend: site.url | append: ".html" }}).
