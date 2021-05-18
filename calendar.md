@@ -168,6 +168,7 @@ The table below shows what was done at Eventos.UA project in every week:
       </td>
       <th scope="row" style="width: 25%">3rd May - 11th May</th>
     </tr> 
+  </tbody>
 </table>
 
 
