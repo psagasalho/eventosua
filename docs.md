@@ -59,7 +59,18 @@ video_background: '/assets/vid/ua.mp4'
         <td>14 April 2021</td>
         <td><a href="{{"/eventosua/assets/pdf/m2/M2_EventosUA_pres.pdf" | prepend: relative_url | prepend: site.url }}" target="_blank">Open in a new tab</a></td>
       </tr>    
+      <tr>
+        <th scope="row">3 Milestone</th>
+        <td>14 April 2021</td>
+        <td><a href="http://localhost:4000/eventosua/assets/pdf/m2/M3_EventosUAPPT.pdf" target="_blank">Open in a new tab</a></td>
+      </tr>   
+      <tr>
+        <th scope="row">4 Milestone</th>
+        <td>14 April 2021</td>
+        <td><a href="http://localhost:4000/eventosua/assets/pdf/m2/M4_GRUPO6.pdf" target="_blank">Open in a new tab</a></td>
+      </tr>  
     </tbody>
+    
   
   </table>
 
