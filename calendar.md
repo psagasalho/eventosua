@@ -233,17 +233,17 @@ The table below shows what was done at Eventos.UA project in every week:
           </ul>
         </td>
         <th scope="row" style="width: 25%">14th June - 20th June</th>
+    </tr>
+    <tr>
+      <th scope="row" style="width: 25%">Week 15</th>
+      <td class="td-padding">
+        <ul>
+          <li>Milestone 4</li>
+          <li>Final Presentation</li>
+        </ul>
+      </td>
+      <th scope="row" style="width: 25%">21th June - 27th June</th>
   </tr>
-  <tr>
-    <th scope="row" style="width: 25%">Week 15</th>
-    <td class="td-padding">
-      <ul>
-        <li>Milestone 4</li>
-        <li>Final Presentation</li>
-      </ul>
-    </td>
-    <th scope="row" style="width: 25%">21th June - 27th June</th>
-</tr>
   </tbody>
 </table>
 
